@@ -1,6 +1,6 @@
 ## Hello, there ✌
 
-My name is Arthur, and I'm a junior FullStack developer from Goiânia, Goiás, Brazil. I love programming, and my goal is to create solutions to solve real-world problems!
+My name is Arthur, and I'm a junior frontend/backend developer from Goiânia, Goiás, Brazil. I love programming, and my goal is to create solutions to solve real-world problems!
 I'm currently studying.
 
 English level: Basic
