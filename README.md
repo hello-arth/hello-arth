@@ -1,6 +1,6 @@
 ## Hello, there ✌
 
-My name is Arthur, and I'm a Junior Web Developer from Goiânia, Goiás, Brazil. I love programming, and my goal is to create solutions to solve real-world problems!
+My name is Arthur, and I'm a Junior Web Developer (Front-end & Back-end) from Goiânia, Goiás, Brazil. I love programming, and my goal is to create solutions to solve real-world problems!
 I'm currently studying.
 
 English Level: Currently improving (basic reading and writing)
