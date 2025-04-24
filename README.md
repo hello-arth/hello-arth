@@ -31,6 +31,8 @@ In the back-end:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello-arth&show_icons=true)
+
 ### You can also find me here 👇
 
 <div>
